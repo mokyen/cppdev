@@ -1,0 +1,32 @@
+# Build directories and generated files.
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled object files, libraries, and binaries.
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.dSYM/
+
+# Precompiled headers.
+*.gch
+*.pch
+
+# Temporary files.
+*.tmp
+
+# Editor and IDE folders.
+.vscode/
+.idea/
+
+# OS generated files.
+.DS_Store
+Thumbs.db
